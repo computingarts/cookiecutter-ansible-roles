@@ -8,6 +8,7 @@
   "email": "me@example.com",
   "website": "http://example.com",
   "twitter": "example",
+  "host_key_checking": "true",
   "license": [
     "MIT",
     "BSD-3",
@@ -15,10 +16,5 @@
   ],
   "min_ansible_version": "2.8",
   "year": "2022",
-  "github_username": "{{ cookiecutter.twitter }}",
-  "travis_username": "{{ cookiecutter.twitter }}",
-  "default_ci_badges": [
-    "Y",
-    "N"
-  ]
+  "github_username": "{{ cookiecutter.twitter }}"
 }

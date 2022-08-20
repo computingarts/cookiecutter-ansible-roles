@@ -1,0 +1,24 @@
+---
+galaxy_info:
+  author: Your Name
+  description: Enter description of Ansible role
+  company: Enter company name
+  license: MIT
+  min_ansible_version: 2.8
+  role_name: test
+
+  # platforms:
+  # - name: Fedora
+  #   versions:
+  #   - all
+  #   - 25
+  # - name: SomePlatform
+  #   versions:
+  #   - all
+  #   - 1.0
+  #   - 7
+  #   - 99.99
+
+  galaxy_tags: []
+
+dependencies: []

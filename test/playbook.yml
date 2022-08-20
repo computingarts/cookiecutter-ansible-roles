@@ -1,0 +1,8 @@
+---
+- hosts: all
+  gather_facts: true
+  ignore_errors: false
+  become: false
+
+  roles:
+    - role: "test"
